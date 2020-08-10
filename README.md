@@ -1,0 +1,2 @@
+# KenwoodBandDecoder
+Get the serial data from Kenwood RS232 port which connected to PC and managed by some HAM software like N1MM or AAlog3. Arduino Mega 1280 serial port (Serial1.read) conected to PCs COM RX line. The data outputs from Arduino to KS0108 128x64 GLCD . Also used RS232 to TTL converter based on MAX232CPE. This project is part of Arduino based Solid State HF PA, but may be used like band decoder for atomatic antenna selector with ULN2003 and etc.
